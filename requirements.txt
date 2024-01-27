@@ -1,0 +1,12 @@
+tqdm == 4.66.1
+torch>=2.0.0
+darts
+scikit-learn
+prophet
+pandas
+matplotlib
+numpy
+numba
+jupyter
+ipywidgets
+jit
