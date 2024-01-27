@@ -58,7 +58,9 @@ In `with_tax_rate.ipynb`:
 In fact, in real life, tax rates are not negligible. At this time, unconditional high-frequency trading will lead to excessive losses of principal due to transactions.
 This is not conducive to us achieving index enhancement, so at this time, our selling strategy is modified to sell when possible at extremely high profits to reduce principal losses caused by taxes during transactions.
 
-## Developer
+## Developers
 
-Undergraduate students at the School of Future Tech, SCUT
-Ye Zilyu  Zhu YiNan Hua Baoyang
+- Undergraduate students at the School of Future Tech, SCUT
+- Ye Zilyu
+- Zhu YiNan
+- Hua Baoyang
